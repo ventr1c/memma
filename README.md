@@ -27,7 +27,6 @@ If you find this work helpful, please cite our paper:
   - [Vanilla Single-Agent Baseline](#vanilla-single-agent-baseline)
   - [Memory Toolkit Baselines (A-MEM, NaiveRAG, LangMem, FullContext)](#memory-toolkit-baselines)
   - [LightMem Baseline](#lightmem-baseline)
-  - [MEM1 Baseline](#mem1-baseline)
 
 ## Overview
 
