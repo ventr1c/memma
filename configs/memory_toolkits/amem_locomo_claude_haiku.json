@@ -1,0 +1,11 @@
+{
+  "user_id": "dummy",
+  "embedder_provider": "openai",
+  "retriever_name_or_path": "text-embedding-3-small",
+  "base_url": null,
+  "llm_backend": "anthropic",
+  "llm_model": "claude-haiku-4-5-20251001",
+  "evo_threshold": 100,
+  "api_key": null,
+  "query_limit": 40
+}

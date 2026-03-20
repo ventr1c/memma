@@ -1,0 +1,28 @@
+# LLM API Clients
+openai>=2.0
+anthropic>=0.80
+
+# Core ML
+torch>=2.8.0
+transformers>=4.57.0
+sentence-transformers>=5.0
+scikit-learn
+
+# Data Processing
+numpy
+pandas
+pyarrow
+nltk
+rank-bm25
+json-repair
+tiktoken
+
+# Vector Storage (for LightMem backend)
+qdrant-client
+lightmem
+
+# Configuration & Utilities
+pyyaml
+python-dotenv
+requests
+tqdm

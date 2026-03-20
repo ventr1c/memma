@@ -1,0 +1,6 @@
+{
+  "user_id": "dummy",
+  "llm_backend": "anthropic",
+  "llm_model": "claude-haiku-4-5-20251001",
+  "context_window": 1000000
+}

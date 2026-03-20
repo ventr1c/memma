@@ -1,0 +1,11 @@
+{
+  "user_id": "dummy",
+  "llm_backend": "anthropic",
+  "llm_model": "claude-haiku-4-5-20251001",
+  "embedder_provider": "openai",
+  "retriever_name_or_path": "text-embedding-3-small",
+  "embedding_model_dims": 1536,
+  "use_gpu": "cpu",
+  "vector_store_provider": "qdrant",
+  "qdrant_on_disk": true
+}

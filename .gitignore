@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Data (download via instructions in README)
+data/memalpha/
+data/memoryagentbench/
+
+# Outputs & logs
+results/
+outputs/
+logs/
+wandb/
+metrics/
+nohup.out
+*.log
+
+# Temporary files
+temp_qdrant/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
