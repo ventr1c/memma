@@ -18,17 +18,16 @@ If you find this work helpful, please cite our paper:
 ## Table of Contents
 
 - [Overview](#overview)
+- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Dataset Preparation](#dataset-preparation)
 - [Quick Start](#quick-start)
 - [Evaluation](#evaluation)
-
 - [Baselines](#baselines)
   - [Vanilla Single-Agent Baseline](#vanilla-single-agent-baseline)
   - [Memory Toolkit Baselines (A-MEM, NaiveRAG, LangMem, FullContext)](#memory-toolkit-baselines)
   - [LightMem Baseline](#lightmem-baseline)
   - [MEM1 Baseline](#mem1-baseline)
-- [Project Structure](#project-structure)
 
 ## Overview
 
