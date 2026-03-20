@@ -1,0 +1,6 @@
+{
+  "user_id": "dummy",
+  "llm_backend": "openai",
+  "llm_model": "gpt-4o-mini",
+  "context_window": 1000000
+}

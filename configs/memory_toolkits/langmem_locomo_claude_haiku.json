@@ -1,0 +1,7 @@
+{
+  "user_id": "dummy",
+  "retriever_name_or_path": "openai:text-embedding-3-small",
+  "retriever_dim": 1536,
+  "llm_model": "anthropic:claude-haiku-4-5-20251001",
+  "query_limit": 40
+}

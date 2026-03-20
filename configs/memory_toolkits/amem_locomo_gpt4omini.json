@@ -1,0 +1,11 @@
+{
+  "user_id": "dummy",
+  "embedder_provider": "openai",
+  "retriever_name_or_path": "text-embedding-3-small",
+  "base_url": null,
+  "llm_backend": "openai",
+  "llm_model": "gpt-4o-mini",
+  "evo_threshold": 100,
+  "api_key": null,
+  "query_limit": 40
+}
