@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.18718-b31b1b.svg)](https://arxiv.org/abs/2603.18718)
 
-Official implementation of **"MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution"**.
+Official implementation of **"MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution"**. (EMNLP 2026 Main)
 
 If you find this work helpful, please cite our paper:
 
